@@ -2,9 +2,9 @@
 
 layout: col-sidebar
 title: OWASP New Delhi
-tags: example-tag
+tags: New Delhi, NSUT
 region: Asia
-meetup-group:
+meetup-group: OWASP New Delhi
 
 ---
 
