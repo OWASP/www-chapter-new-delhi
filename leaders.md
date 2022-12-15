@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Gyan Prakash](mailto:gyan.prakash@owasp.org)
+* [Rohit Kumar](mailto:rohit.kumar@owasp.org)
