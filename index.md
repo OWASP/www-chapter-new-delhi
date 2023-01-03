@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP New Delhi
 tags: New Delhi, NSUT
 region: Asia
-meetup-group: OWASP New Delhi
+meetup-group:
 
 ---
 
