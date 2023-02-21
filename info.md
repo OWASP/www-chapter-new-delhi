@@ -3,10 +3,5 @@
 
 ### Social Links
 * [Meetup](#)
-* [Twitter](#)
-* [LinkedIn](#)
-* [Discord](#)
-* [Slack](#)
-* [Instagram](#)
-* [Gmail](#)
+*
 
