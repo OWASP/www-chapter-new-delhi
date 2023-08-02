@@ -1,2 +1,4 @@
 ### Leaders
-* [First and Last name](mailto:)
+
+* [Kashish Kanojia](mailto:kashish.kanojia@owasp.org)
+* [Ashish Taank](mailto:ashish.taank@owasp.org)
