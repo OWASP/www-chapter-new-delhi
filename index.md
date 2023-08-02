@@ -8,79 +8,48 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
+# OWASP New Delhi Chapter
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Welcome to the OWASP New Delhi Chapter! We are a community-driven group passionate about cybersecurity and promoting secure software practices in the heart of India.
 
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
+## About Us
 
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
+Welcome to OWASP New Delhi Chapter, proudly located in the vibrant capital city of India!
 
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
+At OWASP New Delhi, we are a dynamic community of cybersecurity enthusiasts, professionals, students, and researchers. Our mission is to foster a culture of secure software development and empower individuals with the knowledge and tools to create resilient digital solutions.
 
-<li>region: This is the region you are in according to our data</li>
+In the heart of New Delhi, we aim to be a hub of innovation and collaboration, where experts and newcomers alike can come together to exchange ideas, share experiences, and stay updated on the ever-evolving landscape of application security. As the capital city of India, New Delhi serves as a melting pot of diverse talents, perspectives, and industries, making our chapter a unique platform for fostering cutting-edge discussions and advancements in cybersecurity.
 
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
+Join us in our journey to strengthen the cybersecurity fabric of our digital world and make a lasting impact on the software security landscape. Together, we strive to build a more secure and trustworthy online environment for everyone.
 
-</div>
+## Upcoming Events
 
-## Welcome
-Include some information here about your chapter
+Stay updated with our upcoming events, workshops, and meetups. Join us for insightful discussions, hands-on training, and networking opportunities.
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+## Get Involved
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+Join our community and contribute to the mission of enhancing application security. Here's how you can get involved:
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+- **Attend Events:** Participate in our events, workshops, and meetups to learn from experts and connect with fellow cybersecurity enthusiasts.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
+- **Speak:** Are you an expert in application security? Consider speaking at one of our events and sharing your knowledge with the community.
 
-<!-- You should delete this comment
+- **Contribute:** Contribute to open-source projects, collaborate on research, and help raise awareness about cybersecurity best practices.
 
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+- **Connect:** Join our online platforms to engage in discussions, share resources, and stay updated with the latest news:
 
-{front matter for this file}
+  - Follow us on [Twitter](https://twitter.com/OWASP_NewDelhi)
+  - Connect on [LinkedIn](https://www.linkedin.com/company/owaspnewdelhi/)
+  - Join our [Discord Server](https://discord.gg/ncAGGad926)
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+## Chapter Leadership
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+Meet the dedicated individuals leading the OWASP New Delhi Chapter:
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+- **Chapter Leader:** Kashish Kanojia
+- 
+## Contact Us
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+Have questions or want to get in touch? Reach out to our chapter leader at [kashish.kanojia@owasp.org](mailto:kashish.kanojia@owasp.org).
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+Join us in our mission to secure the digital world, one line of code at a time!
