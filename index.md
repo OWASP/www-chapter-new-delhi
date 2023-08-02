@@ -10,7 +10,7 @@ meetup-group:
 
 # OWASP New Delhi Chapter
 
-Welcome to the OWASP New Delhi Chapter! We are a community-driven group passionate about cybersecurity and promoting secure software practices in the heart of India.
+Welcome to the OWASP New Delhi Chapter! We are a community-driven group passionate about cybersecurity and dedicated to promoting secure software practices in the heart of India.
 
 ## About Us
 
@@ -18,9 +18,9 @@ Welcome to OWASP New Delhi Chapter, proudly located in the vibrant capital city 
 
 At OWASP New Delhi, we are a dynamic community of cybersecurity enthusiasts, professionals, students, and researchers. Our mission is to foster a culture of secure software development and empower individuals with the knowledge and tools to create resilient digital solutions.
 
-In the heart of New Delhi, we aim to be a hub of innovation and collaboration, where experts and newcomers alike can come together to exchange ideas, share experiences, and stay updated on the ever-evolving landscape of application security. As the capital city of India, New Delhi serves as a melting pot of diverse talents, perspectives, and industries, making our chapter a unique platform for fostering cutting-edge discussions and advancements in cybersecurity.
+In the heart of New Delhi, we aim to be a hub of innovation and collaboration, where experts and newcomers alike come together to exchange ideas, share experiences, and stay updated on the ever-evolving landscape of application security. As the capital city of India, New Delhi serves as a melting pot of diverse talents, perspectives, and industries, making our chapter a unique platform for fostering cutting-edge discussions and advancements in cybersecurity.
 
-Join us in our journey to strengthen the cybersecurity fabric of our digital world and make a lasting impact on the software security landscape. Together, we strive to build a more secure and trustworthy online environment for everyone.
+Join us in our journey to fortify the cybersecurity fabric of our digital world and make a lasting impact on the software security landscape. Together, we strive to build a more secure and trustworthy online environment for everyone.
 
 ## Upcoming Events
 
@@ -28,19 +28,15 @@ Stay updated with our upcoming events, workshops, and meetups. Join us for insig
 
 ## Get Involved
 
-Join our community and contribute to the mission of enhancing application security. Here's how you can get involved:
+Join our community and contribute to the mission of enhancing application security. Here’s how you can get involved:
 
 - **Attend Events:** Participate in our events, workshops, and meetups to learn from experts and connect with fellow cybersecurity enthusiasts.
-
 - **Speak:** Are you an expert in application security? Consider speaking at one of our events and sharing your knowledge with the community.
-
-- **Contribute:** Contribute to open-source projects, collaborate on research, and help raise awareness about cybersecurity best practices.
-
-- **Connect:** Join our online platforms to engage in discussions, share resources, and stay updated with the latest news:
-
-  - Follow us on [Twitter](https://twitter.com/OWASP_NewDelhi)
-  - Connect on [LinkedIn](https://www.linkedin.com/company/owaspnewdelhi/)
-  - Join our [Discord Server](https://discord.gg/ncAGGad926)
+- **Contribute:** Join hands in open-source projects, collaborate on research, and help raise awareness about cybersecurity best practices.
+- **Connect:** Engage in discussions, share resources, and stay updated with the latest news on our online platforms:
+  - [Follow us on Twitter](https://twitter.com/OWASP_NewDelhi)
+  - [Connect on LinkedIn](https://www.linkedin.com/company/owasp-new-delhi)
+  - [Join our Discord Server](https://discord.gg/owasp-newdelhi)
 
 ## Chapter Leadership
 
