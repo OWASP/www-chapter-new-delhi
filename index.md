@@ -47,7 +47,23 @@ Join our community and contribute to the mission of enhancing application securi
 Meet the dedicated individuals leading the OWASP New Delhi Chapter:
 
 - **Chapter Leader:** Kashish Kanojia
-- 
+
+## Participation
+
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that strives to enhance software security. Our vast range of projects, tools, documents, forums, and chapters are open and available to all individuals interested in advancing application security.
+
+Local OWASP chapters are led by community leaders who adhere to the Chapters Policy. If you wish to make a financial contribution, we kindly request that you use the authorized online donation button.
+
+We extend a warm invitation to everyone to get involved in various aspects of OWASP:
+
+- **Projects:** Contribute to and collaborate on our diverse projects.
+- **Local Chapters:** Join or lead a chapter in your area.
+- **Events:** Participate in OWASP events and gatherings.
+- **Online Groups:** Engage in discussions and knowledge sharing.
+- **Community Slack Channel:** Join our Slack channel for real-time interaction.
+
+Diversity is a fundamental value across all our initiatives. OWASP serves as an excellent platform to learn about application security, establish valuable connections, and even elevate your reputation as an expert in the field. We also encourage you to consider becoming a member or making a donation to support our ongoing efforts.
+
 ## Contact Us
 
 Have questions or want to get in touch? Reach out to our chapter leader at [kashish.kanojia@owasp.org](mailto:kashish.kanojia@owasp.org).
