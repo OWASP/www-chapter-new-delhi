@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP New Delhi
 tags: example-tag
 region: Asia
+country: India
 meetup-group:
 
 ---
@@ -46,7 +47,7 @@ Meet the dedicated individuals leading the OWASP New Delhi Chapter:
 
 ## Participation
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that strives to enhance software security. Our vast range of projects, tools, documents, forums, and chapters are open and available to all individuals interested in advancing application security.
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that strives to enhance software security. Our vast range of projects, tools, documents, forums, and chapters are open and available to all individuals interested in advancing application security.
 
 Local OWASP chapters are led by community leaders who adhere to the Chapters Policy. If you wish to make a financial contribution, we kindly request that you use the authorized online donation button.
 
