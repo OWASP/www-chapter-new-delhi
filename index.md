@@ -9,6 +9,8 @@ meetup-group:
 
 ---
 
+![OWASP New Delhi Logo](https://github.com/OWASP/www-chapter-new-delhi/blob/main/assets/images/owasp-newdelhi-logo.png)
+
 # OWASP New Delhi Chapter
 
 Welcome to the OWASP New Delhi Chapter! We are a community-driven group passionate about cybersecurity and dedicated to promoting secure software practices in the heart of India.
