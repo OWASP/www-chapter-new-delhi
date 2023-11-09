@@ -2,6 +2,7 @@
 * Provide Group Information
 
 ### Social Links
-* [Meetup](#)
-*
+[Meetup](https://www.meetup.com/owasp-new-delhi-chapter/)
+[Linkedin](https://www.linkedin.com/company/owaspnewdelhi/)
+
 
