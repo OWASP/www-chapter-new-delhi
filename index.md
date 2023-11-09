@@ -9,7 +9,7 @@ meetup-group:
 
 ---
 
-![OWASP New Delhi Logo](https://github.com/OWASP/www-chapter-new-delhi/blob/main/assets/images/owasp-newdelhi-logo.png)
+<h1 align="center"><img src="assets/images/owasp-newdelhi-logo.png"/></h1>
 
 # OWASP New Delhi Chapter
 
