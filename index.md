@@ -40,12 +40,14 @@ Join our community and contribute to the mission of enhancing application securi
   - [Follow us on Twitter](https://twitter.com/OWASP_NewDelhi)
   - [Connect on LinkedIn](https://www.linkedin.com/company/owasp-new-delhi)
   - [Join our Discord Server](https://discord.gg/owasp-newdelhi)
+  - [Join our Meetup Group](https://www.meetup.com/owasp-new-delhi-chapter/)
 
 ## Chapter Leadership
 
 Meet the dedicated individuals leading the OWASP New Delhi Chapter:
 
 - **Chapter Leader:** Kashish Kanojia
+- **Chapter Leader:** Ashish Taank
 
 ## Participation
 
