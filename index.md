@@ -21,7 +21,7 @@ Speaking at OWASP New Delhi Chapter Events
 
 #### Call For Speakers
 
-Call For Speakers is open - if you would like to present a talk at future OWASP New Delhi Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send your talk proposal to: [mailto:kashish.kanojia@owasp.org](kashish.kanojia@owasp.org)
+Call For Speakers is open - if you would like to present a talk at future OWASP New Delhi Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send your talk proposal to: [kashish.kanojia@owasp.org](mailto:kashish.kanojia@owasp.org)
 
 Next Meeting/Event(s)
 ---------------------
@@ -37,7 +37,7 @@ Please visit <a href="https://www.meetup.com/owasp-new-delhi-chapter/">https://w
 
 Video Recordings of Past Events
 --------------------------------
-You can watch the recordings of talks presented at OWASP New Delhi events on our YouTube channel: <a href="https://www.youtube.com/OWASPNewDelhiChapter">https://www.youtube.com/OWASPNewDelhiChapter
+You can watch the recordings of talks presented at OWASP New Delhi events on our YouTube channel:<a href="https://www.youtube.com/OWASPNewDelhiChapter">OWASPNewDelhiChapter
 
 Please [SUBSCRIBE](https://www.youtube.com/OWASPNewDelhiChapter?sub_confirmation=1) to our YouTube channel to get notified when new videos get published.
 
