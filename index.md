@@ -2,24 +2,44 @@
 
 layout: col-sidebar
 title: OWASP New Delhi
-tags: blr
+tags: new delhi
 level: 0
 region: Asia
 meetup-group: owasp-new-delhi-chapter
 country: India
-postal-code: 
+postal-code: 110019
+currency: rupee
 
 ---
 
-## Upcoming events
+OWASP New Delhi
+-------------
+Welcome to the OWASP New Delhi chapter homepage. The chapter board is <a href="mailto:kashish.kanojia@owasp.org">Kashish Kanojia</a>.. Follow chapter news on [Facebook](https://www.facebook.com/OWASP_NewDelhi) | [Twitter](https://twitter.com/OWASP_newdelhi) | [Meetup.com](https://meetup.com/OWASP-new-delhi) | [LinkedIN](https://uk.linkedin.com/company/owaspnewdelhi) | Watch recordings of past talks on our [YouTube Channel](https://youtube.com/OWASPNewDelhiChapter)
 
-### Upcoming Meetings
+Speaking at OWASP London Chapter Events
+---------------------------------------
 
-We schedule our meetings on the [OWASP New Delhi Chapter Meetup](https://www.meetup.com/owasp-new-delhi-chapter/)
+#### Call For Speakers
+
+Call For Speakers is open - if you would like to present a talk at future OWASP London Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send your talk proposal to: [mailto:kashish.kanojia@owasp.org](kashish.kanojia@owasp.org)
+
+Next Meeting/Event(s)
+---------------------
+
+[//]: # (Comment: When updating the next event info also update the next event tab)
+
+
+OWASP New Delhi Chapter meetings are posted on our MeetUp Page:
+
+Please visit <a href="https://www.meetup.com/owasp-new-delhi-chapter/">https://www.meetup.com/owasp-new-delhi-chapter/</a> OWASP New Delhi MeetUp site for London Chapter event information.
 
 {% include chapter_events.html group=page.meetup-group %}
 
-Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+Video Recordings of Past Events
+--------------------------------
+You can watch the recordings of talks presented at OWASP New Delhi events on our YouTube channel: https://www.youtube.com/OWASPNewDelhiChapter
+
+Please [SUBSCRIBE](https://www.youtube.com/OWASPNewDelhiChapter?sub_confirmation=1) to our YouTube channel to get notified when new videos get published.
 
 ### Follow @OWASP_NewDelhi for event updates on Twitter
 **[OWASP New Delhi Twitter Account](https://twitter.com/OWASP_NewDelhi)**  

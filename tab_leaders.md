@@ -20,5 +20,6 @@ Excels in designing robust enterprise networks, including LANs, WANs, and wirele
 
 - Company Twitter: [@opseclio](https://www.twitter.com/opseclio)
 - Company Linkedin: [@opseclio](https://www.linkedin.com/company/opseclio)
+
 - Personal Twitter: [@cyberfascinate](https://www.twitter.com/cyberfascinate) 
 - Personal Linkedin: [@cyberfascinate](https://www.linkedin.com/in/cyberfascinate)
