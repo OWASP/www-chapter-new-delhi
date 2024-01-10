@@ -7,7 +7,7 @@ level: 0
 region: Asia
 meetup-group: owasp-new-delhi-chapter
 country: India
-postal-code: 110019
+postal-code:
 currency: rupee
 
 ---
