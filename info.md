@@ -1,15 +1,27 @@
+### Chapter Information
+
+
+
+![OWASP New Delhi Chapter](Owasp-new-delhi-logo.png
+"OWASP New Delhi Chapter")
+
 ### Social Links
-* [Meetup](https://www.meetup.com/owasp-new-delhi-chapter/)
-* [Linkedin](https://www.linkedin.com/company/owaspnewdelhi/)
+ 
+* [Join Our Mailing List](https://groups.google.com/a/owasp.org/g/new-delhi-leaders)
+
+* [MeetUp](https://www.meetup.com/owasp-new-delhi-chapter/)
+
+* [Facebook](https://www.facebook.com/OWASP_NewDelhi/)
+ 
+* [Twitter](https://twitter.com/OWASP_NewDelhi)
+ 
 
 ### Become speaker
 
-* [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
+* [Speaker Agreement](https://owasp.org/www-policy/)
 
-### Useful Links
-* [Become a Member](https://owasp.org/membership/)
 
-* [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
+### useful Links
+* [Become a Member](https://www.owasp.org/index.php/Membership)
 
-* [Projects](https://owasp.org/projects/)
-
+* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
