@@ -1,4 +1,3 @@
 ### Leaders
-* [Kashish](mailto:kashish.kanojia@owasp.org)
-* Veera Babu
+* [Kashish Kanojia](mailto:kashish.kanojia@owasp.org)
 
