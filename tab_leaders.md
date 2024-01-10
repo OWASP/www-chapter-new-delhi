@@ -15,10 +15,10 @@ Kashish Kanojia, Founder & CEO of Opseclio, a cybersecurity expert with a focus 
 
 Excels in designing robust enterprise networks, including LANs, WANs, and wireless networks, adept in TCP/IP, DNS, and DHCP protocols. Maintains a competitive edge through quick adaptation to industry changes, ensuring continuous growth. Cybersecurity proficiency demonstrated through expertise in firewalls, intrusion prevention, and data encryption. Committed to staying current with the latest technological advancements and security trends. A dedicated professional, constantly seeking opportunities for personal and professional development.
 
-Company Website: <https://opseclio.tech>
-Portfolio Website: <https://cyberfascinate.github.io>
+- Company Website: <https://opseclio.tech>
+- Portfolio Website: <https://cyberfascinate.github.io>
 
-Company Twitter: [@opseclio](https://www.twitter.com/opseclio)
-Company Linkedin: [@opseclio](https://www.linkedin.com/company/opseclio)
-Personal Twitter: [@cyberfascinate](https://www.twitter.com/cyberfascinate) 
-Personal Linkedin: [@cyberfascinate](https://www.linkedin.com/in/cyberfascinate)
+- Company Twitter: [@opseclio](https://www.twitter.com/opseclio)
+- Company Linkedin: [@opseclio](https://www.linkedin.com/company/opseclio)
+- Personal Twitter: [@cyberfascinate](https://www.twitter.com/cyberfascinate) 
+- Personal Linkedin: [@cyberfascinate](https://www.linkedin.com/in/cyberfascinate)
