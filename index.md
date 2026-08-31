@@ -1,5 +1,4 @@
 ---
-
 layout: col-sidebar
 title: OWASP New Delhi
 tags: new delhi
@@ -9,7 +8,6 @@ meetup-group
 country: India
 postal-code:
 currency: rupee
-
 ---
 
 
