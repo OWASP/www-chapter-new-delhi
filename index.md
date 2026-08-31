@@ -4,7 +4,7 @@ title: OWASP New Delhi
 tags: new delhi
 level: 0
 region: Asia
-meetup-group
+meetup-group:
 country: India
 postal-code:
 currency: rupee
